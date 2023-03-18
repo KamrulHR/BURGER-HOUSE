@@ -1,0 +1,69 @@
+@media(max-width:575px) {
+    .brgr-lg {
+        text-align: center;
+    }
+
+    .bnnr-cntnt h4 {
+        font-size: 18px;
+    }
+
+    .bnnr-cntnt h1 {
+        font-size: 100px;
+    }
+
+    .bnnr-cntnt h2 {
+        font-size: 45px;
+    }
+
+    .navbar-toggler {
+        box-shadow: none ! important;
+    }
+
+    .navbar-toggler i {
+        font-size: 24px;
+    }
+    .navbar-nav{
+        text-align: center;
+    }
+    .nav-link {
+        display: inline-block;
+        padding: 5px 10px;
+    }
+    .bnnr-img img {
+        display: none;
+    }
+    .fun {
+        margin-top: 20px;
+    }
+    .align p {
+        font-size: 14px;
+    }
+    .cntnt p {
+        font-size: 14px;
+    }
+    .cntnt {
+        margin-top: 20px;
+    }
+    .cntnt-2 {
+        margin-top: 20px;
+    }
+    .event {
+        margin-top: 50px;
+    }
+    .owl-dots {
+        margin-top: 4%;
+        margin-left: 23px;
+    }
+    .book h1 {
+        margin-bottom: 47px;
+    }
+    .book h5 {
+        margin-top: 80px;
+    }
+    .book {
+        height: 775px;
+    }
+    footer {
+        padding-bottom: 50px;
+    }
+}
